@@ -12,7 +12,7 @@ public class MainFrame extends JFrame {
 		setLayout(null);
 		setResizable(false);
 		
-		ImagePanel bgImagePanel = new ImagePanel("imgbin-wood-flooring-oak-wood-flooring-color-wood-Jdpz9uA8MrMCK618gHfLFpq44.jpg");
+		ImagePanel bgImagePanel = new ImagePanel("feklt.jpg");
 		bgImagePanel.setBounds(0, 0, this.getWidth(), this.getHeight());
 		setContentPane(bgImagePanel);
 	}
